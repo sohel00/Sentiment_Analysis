@@ -1,9 +1,13 @@
 # Sentiment_Analysis
 
+Sentiment analysis app which takes the tweet as input and provides polarity/sentiment between -1 to 1 (- value means negativity and + value positivity)
+
 Dependencies :
 
 tweepy : A python library for accessing the twitter API
 
 pip install tweepy
 
-textblob
+textblob : a python library for processing natural language
+
+pip install textblob
