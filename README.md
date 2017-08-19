@@ -6,8 +6,8 @@ Dependencies :
 
 tweepy : A python library for accessing the twitter API
 
-pip install tweepy
+```pip install tweepy```
 
 textblob : a python library for processing natural language
 
-pip install textblob
+```pip install textblob```
