@@ -1,6 +1,6 @@
 # Sentiment_Analysis
 
-Sentiment analysis app which takes the tweet as input and provides polarity/sentiment between -1 to 1 (- value means negativity and + value positivity)
+Sentiment analysis app which takes the tweet as input and provides polarity/sentiment between -1 to 1 (- value means negativity and + value means positivity)
 
 Dependencies :
 
